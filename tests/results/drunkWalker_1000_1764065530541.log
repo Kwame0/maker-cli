@@ -1,0 +1,3007 @@
+LITE TEST: Drunk Walker - Spatial Reasoning
+Steps: 1000
+Started: 2025-11-25T10:12:10.541Z
+============================================================
+Generated 1000 steps
+Initial State: {"x":0,"y":0}
+
+Step 1: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 2: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 3: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 4: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 5: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 6: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 7: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 8: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 9: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 10: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 11: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 12: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 13: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 14: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 15: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 16: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 17: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 18: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 19: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 20: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 21: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 22: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 23: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 24: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 25: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 26: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 27: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 28: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 29: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 30: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 31: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 32: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 33: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 34: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 35: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 36: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 37: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 38: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 39: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 40: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 41: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 42: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 43: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 44: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 45: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 46: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 47: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 48: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 49: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 50: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 51: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 52: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 53: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 54: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 55: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 56: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 57: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 58: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 59: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 60: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 61: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 62: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 63: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 64: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 65: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 66: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 67: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 68: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 69: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 70: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 71: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 72: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 73: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 74: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 75: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 76: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 77: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 78: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 79: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 80: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 81: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 82: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 83: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 84: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 85: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 86: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 87: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 88: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 89: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 90: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 91: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 92: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 93: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 94: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 95: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 96: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 97: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 98: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 99: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 100: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 101: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 102: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 103: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 104: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 105: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 106: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 107: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 108: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 109: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 110: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 111: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 112: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 113: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 114: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 115: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 116: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 117: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 118: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 119: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 120: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 121: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 122: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 123: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 124: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 125: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 126: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 127: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 128: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 129: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 130: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 131: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 132: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 133: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 134: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 135: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 136: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 137: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 138: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 139: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 140: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 141: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 142: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 143: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 144: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 145: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 146: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 147: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 148: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 149: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 150: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 151: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 152: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 153: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 154: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 155: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 156: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 157: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 158: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 159: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 160: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 161: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 162: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 163: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 164: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 165: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 166: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 167: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 168: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 169: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 170: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 171: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 172: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 173: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 174: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 175: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 176: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 177: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 178: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 179: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 180: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 181: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 182: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 183: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 184: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 185: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 186: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 187: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 188: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 189: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 190: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 191: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 192: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 193: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 194: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 195: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 196: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 197: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 198: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 199: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 200: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 201: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 202: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 203: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 204: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 205: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 206: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 207: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 208: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 209: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 210: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 211: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 212: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 213: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 214: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 215: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 216: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 217: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 218: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 219: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 220: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 221: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 222: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 223: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 224: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 225: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 226: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 227: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 228: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 229: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 230: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 231: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 232: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 233: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 234: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 235: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 236: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 237: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 238: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 239: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 240: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 241: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 242: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 243: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 244: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 245: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 246: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 247: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 248: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 249: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 250: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 251: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 252: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 253: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 254: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 255: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 256: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 257: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 258: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 259: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 260: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 261: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 262: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 263: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 264: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 265: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 266: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 267: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 268: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 269: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 270: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 271: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 272: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 273: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 274: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 275: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 276: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 277: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 278: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 279: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 280: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 281: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 282: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 283: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 284: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 285: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 286: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 287: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 288: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 289: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 290: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 291: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 292: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 293: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 294: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 295: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 296: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 297: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 298: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 299: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 300: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 301: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 302: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 303: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 304: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 305: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 306: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 307: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 308: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 309: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 310: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 311: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 312: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 313: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 314: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 315: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 316: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 317: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 318: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 319: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 320: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 321: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 322: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 323: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 324: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 325: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 326: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 327: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 328: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 329: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 330: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 331: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 332: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 333: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 334: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 335: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 336: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 337: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 338: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 339: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 340: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 341: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 342: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 343: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 344: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 345: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 346: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 347: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 348: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 349: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 350: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 351: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 352: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 353: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 354: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 355: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 356: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 357: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 358: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 359: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 360: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 361: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 362: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 363: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 364: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 365: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 366: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 367: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 368: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 369: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 370: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 371: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 372: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 373: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 374: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 375: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 376: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 377: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 378: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 379: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 380: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 381: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 382: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 383: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 384: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 385: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 386: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 387: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 388: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 389: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 390: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 391: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 392: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 393: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 394: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 395: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 396: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 397: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 398: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 399: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 400: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 401: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 402: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 403: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 404: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 405: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 406: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 407: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 408: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 409: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 410: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 411: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 412: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 413: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 414: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 415: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 416: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 417: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 418: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 419: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 420: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 421: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 422: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 423: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 424: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 425: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 426: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 427: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 428: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 429: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 430: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 431: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 432: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 433: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 434: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 435: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 436: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 437: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 438: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 439: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 440: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 441: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 442: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 443: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 444: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 445: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 446: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 447: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 448: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 449: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 450: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 451: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 452: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 453: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 454: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 455: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 456: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 457: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 458: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 459: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 460: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 461: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 462: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 463: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 464: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 465: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 466: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 467: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 468: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 469: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 470: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 471: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 472: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 473: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 474: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 475: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 476: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 477: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 478: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 479: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 480: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 481: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 482: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 483: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 484: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 485: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 486: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 487: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 488: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 489: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 490: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 491: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 492: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 493: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 494: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 495: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 496: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 497: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 498: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 499: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 500: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 501: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 502: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 503: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 504: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 505: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 506: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 507: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 508: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 509: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 510: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 511: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 512: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 513: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 514: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 515: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 516: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 517: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 518: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 519: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 520: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 521: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 522: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 523: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 524: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 525: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 526: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 527: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 528: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 529: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 530: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 531: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 532: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 533: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 534: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 535: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 536: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 537: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 538: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 539: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 540: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 541: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 542: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 543: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 544: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 545: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 546: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 547: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 548: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 549: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 550: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 551: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 552: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 553: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 554: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 555: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 556: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 557: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 558: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 559: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 560: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 561: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 562: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 563: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 564: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 565: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 566: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 567: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 568: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 569: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 570: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 571: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 572: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 573: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 574: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 575: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 576: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 577: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 578: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 579: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 580: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 581: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 582: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 583: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 584: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 585: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 586: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 587: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 588: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 589: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 590: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 591: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 592: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 593: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 594: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 595: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 596: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 597: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 598: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 599: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 600: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 601: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 602: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 603: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 604: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 605: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 606: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 607: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 608: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 609: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 610: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 611: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 612: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 613: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 614: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 615: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 616: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 617: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 618: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 619: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 620: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 621: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 622: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 623: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 624: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 625: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 626: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 627: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 628: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 629: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 630: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 631: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 632: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 633: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 634: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 635: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 636: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 637: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 638: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 639: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 640: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 641: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 642: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 643: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 644: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 645: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 646: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 647: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 648: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 649: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 650: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 651: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 652: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 653: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 654: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 655: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 656: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 657: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 658: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 659: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 660: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 661: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 662: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 663: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 664: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 665: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 666: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 667: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 668: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 669: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 670: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 671: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 672: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 673: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 674: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 675: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 676: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 677: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 678: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 679: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 680: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 681: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 682: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 683: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 684: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 685: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 686: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 687: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 688: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 689: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 690: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 691: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 692: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 693: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 694: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 695: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 696: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 697: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 698: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 699: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 700: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 701: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 702: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 703: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 704: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 705: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 706: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 707: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 708: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 709: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 710: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 711: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 712: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 713: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 714: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 715: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 716: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 717: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 718: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 719: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 720: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 721: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 722: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 723: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 724: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 725: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 726: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 727: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 728: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 729: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 730: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 731: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 732: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 733: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 734: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 735: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 736: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 737: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 738: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 739: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 740: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 741: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 742: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 743: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 744: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 745: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 746: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 747: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 748: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 749: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 750: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 751: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 752: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 753: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 754: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 755: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 756: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 757: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 758: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 759: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 760: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 761: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 762: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 763: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 764: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 765: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 766: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 767: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 768: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 769: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 770: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 771: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 772: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 773: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 774: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 775: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 776: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 777: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 778: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 779: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 780: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 781: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 782: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 783: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 784: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 785: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 786: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 787: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 788: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 789: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 790: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 791: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 792: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 793: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 794: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 795: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 796: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 797: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 798: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 799: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 800: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 801: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 802: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 803: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 804: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 805: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 806: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 807: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 808: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 809: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 810: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 811: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 812: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 813: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 814: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 815: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 816: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 817: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 818: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 819: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 820: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 821: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 822: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 823: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 824: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 825: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 826: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 827: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 828: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 829: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 830: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 831: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 832: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 833: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 834: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 835: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 836: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 837: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 838: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 839: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 840: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 841: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 842: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 843: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 844: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 845: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 846: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 847: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 848: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 849: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 850: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 851: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 852: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 853: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 854: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 855: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 856: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 857: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 858: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 859: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 860: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 861: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 862: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 863: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 864: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 865: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 866: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 867: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 868: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 869: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 870: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 871: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 872: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 873: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 874: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 875: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 876: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 877: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 878: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 879: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 880: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 881: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 882: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 883: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 884: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 885: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 886: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 887: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 888: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 889: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 890: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 891: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 892: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 893: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 894: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 895: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 896: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 897: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 898: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 899: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 900: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 901: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 902: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 903: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 904: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 905: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 906: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 907: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 908: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 909: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 910: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 911: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 912: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 913: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 914: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 915: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 916: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 917: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 918: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 919: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 920: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 921: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 922: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 923: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 924: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 925: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 926: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 927: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 928: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 929: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 930: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 931: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 932: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 933: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 934: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 935: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 936: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 937: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 938: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 939: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 940: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 941: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 942: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 943: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 944: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 945: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 946: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 947: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 948: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 949: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 950: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 951: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 952: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 953: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 954: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 955: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 956: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 957: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 958: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 959: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 960: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 961: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 962: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 963: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 964: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 965: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 966: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 967: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 968: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 969: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 970: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 971: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 972: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 973: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 974: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 975: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 976: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 977: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 978: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 979: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 980: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 981: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 982: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 983: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 984: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 985: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 986: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 987: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 988: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 989: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 990: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 991: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 992: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 993: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 994: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 995: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 996: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}
+Step 997: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 998: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 999: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 1000: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}

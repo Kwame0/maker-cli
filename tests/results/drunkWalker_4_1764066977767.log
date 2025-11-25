@@ -1,0 +1,19 @@
+LITE TEST: Drunk Walker - Spatial Reasoning
+Steps: 4
+Started: 2025-11-25T10:36:17.767Z
+============================================================
+Generated 4 steps
+Initial State: {"x":0,"y":0}
+
+Step 1: Move North
+  Input: {"x":0,"y":0}
+  Output: {"x":0,"y":1}
+Step 2: Move East
+  Input: {"x":0,"y":1}
+  Output: {"x":1,"y":1}
+Step 3: Move South
+  Input: {"x":1,"y":1}
+  Output: {"x":1,"y":0}
+Step 4: Move West
+  Input: {"x":1,"y":0}
+  Output: {"x":0,"y":0}

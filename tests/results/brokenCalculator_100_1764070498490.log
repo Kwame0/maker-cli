@@ -1,0 +1,307 @@
+LITE TEST: Broken Calculator - Instruction Parsing
+Steps: 100
+Started: 2025-11-25T11:34:58.491Z
+============================================================
+Generated 100 steps
+Initial State: 0
+
+Step 1: Add 5
+  Input: 0
+  Output: 5
+Step 2: Plus five
+  Input: 5
+  Output: 10
+Step 3: Increase by 5
+  Input: 10
+  Output: 15
+Step 4: Sum 5
+  Input: 15
+  Output: 20
+Step 5: Add 5
+  Input: 20
+  Output: 25
+Step 6: Plus five
+  Input: 25
+  Output: 30
+Step 7: Increase by 5
+  Input: 30
+  Output: 35
+Step 8: Sum 5
+  Input: 35
+  Output: 40
+Step 9: Add 5
+  Input: 40
+  Output: 45
+Step 10: Plus five
+  Input: 45
+  Output: 50
+Step 11: Increase by 5
+  Input: 50
+  Output: 55
+Step 12: Sum 5
+  Input: 55
+  Output: 60
+Step 13: Add 5
+  Input: 60
+  Output: 65
+Step 14: Plus five
+  Input: 65
+  Output: 70
+Step 15: Increase by 5
+  Input: 70
+  Output: 75
+Step 16: Sum 5
+  Input: 75
+  Output: 80
+Step 17: Add 5
+  Input: 80
+  Output: 85
+Step 18: Plus five
+  Input: 85
+  Output: 90
+Step 19: Increase by 5
+  Input: 90
+  Output: 95
+Step 20: Sum 5
+  Input: 95
+  Output: 100
+Step 21: Add 5
+  Input: 100
+  Output: 105
+Step 22: Plus five
+  Input: 105
+  Output: 110
+Step 23: Increase by 5
+  Input: 110
+  Output: 115
+Step 24: Sum 5
+  Input: 115
+  Output: 120
+Step 25: Add 5
+  Input: 120
+  Output: 125
+Step 26: Plus five
+  Input: 125
+  Output: 130
+Step 27: Increase by 5
+  Input: 130
+  Output: 135
+Step 28: Sum 5
+  Input: 135
+  Output: 140
+Step 29: Add 5
+  Input: 140
+  Output: 145
+Step 30: Plus five
+  Input: 145
+  Output: 150
+Step 31: Increase by 5
+  Input: 150
+  Output: 155
+Step 32: Sum 5
+  Input: 155
+  Output: 160
+Step 33: Add 5
+  Input: 160
+  Output: 165
+Step 34: Plus five
+  Input: 165
+  Output: 170
+Step 35: Increase by 5
+  Input: 170
+  Output: 175
+Step 36: Sum 5
+  Input: 175
+  Output: 180
+Step 37: Add 5
+  Input: 180
+  Output: 185
+Step 38: Plus five
+  Input: 185
+  Output: 190
+Step 39: Increase by 5
+  Input: 190
+  Output: 195
+Step 40: Sum 5
+  Input: 195
+  Output: 200
+Step 41: Add 5
+  Input: 200
+  Output: 205
+Step 42: Plus five
+  Input: 205
+  Output: 210
+Step 43: Increase by 5
+  Input: 210
+  Output: 215
+Step 44: Sum 5
+  Input: 215
+  Output: 220
+Step 45: Add 5
+  Input: 220
+  Output: 225
+Step 46: Plus five
+  Input: 225
+  Output: 230
+Step 47: Increase by 5
+  Input: 230
+  Output: 235
+Step 48: Sum 5
+  Input: 235
+  Output: 240
+Step 49: Add 5
+  Input: 240
+  Output: 245
+Step 50: Plus five
+  Input: 245
+  Output: 250
+Step 51: Increase by 5
+  Input: 250
+  Output: 255
+Step 52: Sum 5
+  Input: 255
+  Output: 260
+Step 53: Add 5
+  Input: 260
+  Output: 265
+Step 54: Plus five
+  Input: 265
+  Output: 270
+Step 55: Increase by 5
+  Input: 270
+  Output: 275
+Step 56: Sum 5
+  Input: 275
+  Output: 280
+Step 57: Add 5
+  Input: 280
+  Output: 285
+Step 58: Plus five
+  Input: 285
+  Output: 290
+Step 59: Increase by 5
+  Input: 290
+  Output: 295
+Step 60: Sum 5
+  Input: 295
+  Output: 300
+Step 61: Add 5
+  Input: 300
+  Output: 305
+Step 62: Plus five
+  Input: 305
+  Output: 310
+Step 63: Increase by 5
+  Input: 310
+  Output: 315
+Step 64: Sum 5
+  Input: 315
+  Output: 320
+Step 65: Add 5
+  Input: 320
+  Output: 325
+Step 66: Plus five
+  Input: 325
+  Output: 330
+Step 67: Increase by 5
+  Input: 330
+  Output: 335
+Step 68: Sum 5
+  Input: 335
+  Output: 340
+Step 69: Add 5
+  Input: 340
+  Output: 345
+Step 70: Plus five
+  Input: 345
+  Output: 350
+Step 71: Increase by 5
+  Input: 350
+  Output: 355
+Step 72: Sum 5
+  Input: 355
+  Output: 360
+Step 73: Add 5
+  Input: 360
+  Output: 365
+Step 74: Plus five
+  Input: 365
+  Output: 370
+Step 75: Increase by 5
+  Input: 370
+  Output: 375
+Step 76: Sum 5
+  Input: 375
+  Output: 380
+Step 77: Add 5
+  Input: 380
+  Output: 385
+Step 78: Plus five
+  Input: 385
+  Output: 390
+Step 79: Increase by 5
+  Input: 390
+  Output: 395
+Step 80: Sum 5
+  Input: 395
+  Output: 400
+Step 81: Add 5
+  Input: 400
+  Output: 405
+Step 82: Plus five
+  Input: 405
+  Output: 410
+Step 83: Increase by 5
+  Input: 410
+  Output: 415
+Step 84: Sum 5
+  Input: 415
+  Output: 420
+Step 85: Add 5
+  Input: 420
+  Output: 425
+Step 86: Plus five
+  Input: 425
+  Output: 430
+Step 87: Increase by 5
+  Input: 430
+  Output: 435
+Step 88: Sum 5
+  Input: 435
+  Output: 440
+Step 89: Add 5
+  Input: 440
+  Output: 445
+Step 90: Plus five
+  Input: 445
+  Output: 450
+Step 91: Increase by 5
+  Input: 450
+  Output: 455
+Step 92: Sum 5
+  Input: 455
+  Output: 460
+Step 93: Add 5
+  Input: 460
+  Output: 465
+Step 94: Plus five
+  Input: 465
+  Output: 470
+Step 95: Increase by 5
+  Input: 470
+  Output: 475
+Step 96: Sum 5
+  Input: 475
+  Output: 480
+Step 97: Add 5
+  Input: 480
+  Output: 485
+Step 98: Plus five
+  Input: 485
+  Output: 490
+Step 99: Increase by 5
+  Input: 490
+  Output: 495
+Step 100: Sum 5
+  Input: 495
+  Output: 500
